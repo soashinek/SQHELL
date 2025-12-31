@@ -74,9 +74,10 @@ Task 5:union based sql injunction
 
 
 Challenge face
-i got some challenges when -i am try to connect the vpn the problem was i removed the file and i was trying to coneect it, and i solved it by downloading the file and reconnect it .
+i got some challenges when -i am try to connect the vpn the problem was i removed the file and i was trying to connect it, and i solved it by downloading the file and reconnect it .
        - the second challenge  that i get  is when i wrote the sqhell code i was suffered by spelling and spaces.
-   -some times it was not working out even every things gose correctly. the solutions is try and try and try agan and agan then that  would be tyhe best solution.     
+   -some times it was not working out even every things gose correctly. the solutions is try and try and try agan and agan then that  would be the best solution.     
 
 . Conclusion
  The SQHell challenge provides a comprehensive look at how SQL Injection  manifests in modern web applications. While many beginners assume SQLi only happens in login boxes, this lab proves that vulnerabilities can hide anywhere the application processes user input.
+
